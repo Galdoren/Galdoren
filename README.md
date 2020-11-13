@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hello!
-
 - 📺 I'm **Selim Özyalçın**, a Senior Software Engineer, who is working at [Arçelik](https://www.arcelik.com.tr/), making the world a better place by turning people into couch potatoes.
 - 💍 I'm married to my lovely wife.
 - 🕹 I'm a hardcore gamer, if you're reading this, I'm either playing a video game or further honing my software dev skills right now.
